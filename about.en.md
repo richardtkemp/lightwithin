@@ -3,6 +3,7 @@ layout: single
 title: About
 permalink: /about/
 ---
+
 Hi, I’m Eleni Vantana, founder of The Light From Within, and I believe your journey to true wellness begins when you quiet the chaos of diet culture and rediscover your body’s natural wisdom. My mission? To guide you toward a joyful, nourishing relationship with food—one built on self-compassion, trust, and freedom, not rules or restrictions.
 
 For years, I’ve helped people break free from the exhausting cycle of diets, guilt, and shame. Here’s what I know: You don’t need another meal plan or calorie-counting app. What you do need is a safe space to reconnect with your intuition, honor your hunger, and savor food without judgment. That’s why I created The Light From Within—a sanctuary where healing begins by listening to you.

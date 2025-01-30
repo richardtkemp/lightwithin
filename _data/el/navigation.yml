@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Αρχική"
+    url: /
+  - title: "Τι να περιμένετε"
+    url: /expect/
+  - title: "Μαρτυρίες"
+    url: /testimonials/
+  - title: "Σχετικά"
+    url: /about/
