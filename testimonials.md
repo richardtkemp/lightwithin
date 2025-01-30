@@ -1,0 +1,56 @@
+---
+layout: single
+title: Client Testimonials
+permalink: /testimonials/
+---
+
+*Hear from those who’ve rediscovered peace with food and their bodies through The Light From Within:*  
+
+---
+
+> **“Working with Eleni changed my life.**  
+> I spent decades yo-yo dieting, hating my body, and feeling trapped by food rules. Eleni’s gentle guidance helped me trust myself again. Now, I eat without guilt, listen to my body, and finally feel *free*. This isn’t just about food—it’s about reclaiming my joy.”  
+> **— Mara, 34**  
+> *Teacher & Mom of Two*  
+
+---
+
+> **“I didn’t realize how much diet culture controlled me until I met Eleni.**  
+> Her intuitive eating approach was nothing like the ‘quick fixes’ I’d tried before. The sessions felt like therapy for my relationship with food. Two years later, I’m still using the tools she taught me. Forever grateful!”  
+> **— Jordan, 28**  
+> *Nurse & Marathon Runner*  
+
+---
+
+> **“The Light From Within saved me from endless cycles of shame.**  
+> Eleni’s compassion and expertise helped me heal emotional eating I’d struggled with since college. The biweekly Zoom sessions were my anchor—I always left feeling empowered, not judged. If you’re on the fence, just book the discovery call. It’s worth it.”  
+> **— Priya, 41**  
+> *Entrepreneur*  
+
+---
+
+> **“I finally feel at home in my body.**  
+> Eleni’s program taught me to silence the ‘shoulds’ and honor what I truly need. The group check-ins and journal prompts kept me motivated, and her kindness made every step feel safe. This isn’t a diet—it’s freedom.”  
+> **— Taylor, 52**  
+> *Artist & Cancer Survivor*  
+
+---
+
+> **“No gimmicks, no pressure—just real healing.**  
+> As someone who’s always hated Zoom calls, I was skeptical. But Eleni’s warmth made it feel like chatting with a wise friend. She helped me rebuild trust in myself, one bite at a time. Best investment I’ve ever made in my health.”  
+> **— Alex, 37**  
+> *Software Developer*  
+
+---
+
+> **“Eleni is a miracle worker.**  
+> I came to her after a lifetime of disordered eating, convinced I was ‘broken.’ She showed me my body wasn’t the problem—diet culture was. Now, I’m raising my daughter with the same tools. Generational healing starts here!”  
+> **— Lena, 45**  
+> *Social Worker*  
+
+---
+
+*Ready to write your own success story?*  
+[Book your free discovery call](TODO) and take the first step toward food freedom today.  
+
+*Your journey to peace is waiting.*  

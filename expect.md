@@ -1,0 +1,34 @@
+---
+layout: single
+title: What to Expect at The Light From Within
+permalink: /expect/
+---
+
+Your journey to food freedom and body trust begins with a simple, no-pressure step: a **free discovery call**. Let’s connect, get to know each other, and see if working together feels right. You can [book your call](#) directly on my website—*no strings attached*, just an open-hearted conversation about your goals, challenges, and hopes.  
+
+Once we decide to move forward, here’s how your experience will unfold:  
+
+### 1. Your Personalized Journey Begins  
+We’ll start by exploring your unique relationship with food, body, and self-care. This isn’t about quick fixes or cookie-cutter plans. Instead, we’ll co-create a roadmap tailored to your needs, values, and pace.  
+
+### 2. Gentle, Transformative Sessions  
+Every two weeks, we’ll meet for a nourishing, hour-long Zoom session. These conversations are your safe space to dig deep, ask questions, and practice intuitive eating principles in real time. Expect a mix of guided reflection, practical tools, and compassionate coaching—all designed to help you reconnect with your body’s wisdom.  
+
+### 3. Progress Over Perfection  
+Between sessions, you’ll have small, mindful practices to integrate into daily life (*think: tuning into hunger cues, challenging diet mentality, or cultivating gratitude for your body*). I’ll also share resources—journal prompts, meditations, or reading suggestions—to keep you inspired and supported.  
+
+### 4. Flexibility & Freedom  
+This isn’t a rigid program. As you grow, our focus may shift. Some weeks we’ll dive into emotional eating; others, we’ll celebrate victories or untangle societal pressures. My role is to adapt to *your* evolving needs, always honoring your autonomy.  
+
+### 5. A Community of Support  
+You’re never alone here. Beyond our 1:1 sessions, you’ll have access to optional group check-ins and a private online space to connect with others on similar journeys. Healing thrives in community, and I’m committed to fostering yours.  
+
+### 6. Celebrating Every Step  
+Whether it’s savoring a meal without guilt, setting a boundary with diet talk, or simply noticing a shift in self-talk—we’ll honor your wins, big and small. This is about progress, not perfection, and I’ll be cheering you on every step of the way.  
+
+---
+
+**Ready to Begin?**  
+If you’re tired of diets and ready to reclaim peace with food and your body, I’d love to walk this path with you. [Book your free discovery call](TODO) today—your first step toward freedom starts here.  
+
+*Your body knows the way. Let’s listen together.*  
