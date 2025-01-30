@@ -285,7 +285,7 @@ parallel_localization: true
 url: https://lightwithin.richardkemp.uk
 lang_from_path: true
 
-# i18n
+# l18n
 title: "The Light From Within"
   #title:
   #  en: "The Light From Within"
