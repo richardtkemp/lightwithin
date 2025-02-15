@@ -1,10 +1,11 @@
-# main links
-main:
+nav:
   - title: "Αρχική"
     url: /
-  - title: "Τι να περιμένετε"
-    url: /expect/
-  - title: "Μαρτυρίες"
-    url: /testimonials/
+  - title: "Υπηρεσίες"
+    url: /services.html
   - title: "Σχετικά"
-    url: /about/
+    url: /about.html
+  - title: "Μαρτυρίες"
+    url: /testimonials.html
+  - title: "Επικοινωνία"
+    url: /contact.html

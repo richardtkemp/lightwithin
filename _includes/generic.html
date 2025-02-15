@@ -1,0 +1,12 @@
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.[page.id].title | default: Page Title }}</h2>
+        </div>
+      </div>
+	  <div class="row">
+		<div class="col-lg-8 mx-auto text-center">
+		  <div class="large text-muted">{{ site.data.[page.id].text | markdownify }}</div>
+		</div>
+	  </div>
+    </div>

@@ -1,0 +1,16 @@
+header:
+    title: Your light is already there.
+    text: Let’s uncover it together
+    button: Tell Me More
+    buttonlink: /services.html
+
+
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.facebook.com/profile.php?id=100067576188440
+        icon: "fab fa-facebook-f"
+      - url: https://www.instagram.com/lightfromwithin_rd
+        icon: "fab fa-instagram"
+
+copyright: Copyright

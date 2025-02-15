@@ -1,16 +1,11 @@
-# main links
-main:
+nav:
   - title: "Home"
     url: /
-  - title: "What to expect"
-    url: /expect/
-  - title: "Testimonials"
-    url: /testimonials/
+  - title: "Services"
+    url: /services.html
   - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/- name: Home
+    url: /about.html
+  - title: "Testimonials"
+    url: /testimonials.html
+  - title: "Contact"
+    url: /contact.html

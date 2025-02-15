@@ -1,0 +1,17 @@
+autotranslated: true
+
+header:
+    title: Το φως σου είναι ήδη εκεί.
+    text: Ας το ανακαλύψουμε μαζί
+    button: Μάθετε Περισσότερα
+    buttonlink: /services.html
+
+footer:
+    legal: "Πολιτική Απορρήτου"
+    social:
+      - url: https://www.facebook.com/profile.php?id=100067576188440
+        icon: "fab fa-facebook-f"
+      - url: https://www.instagram.com/lightfromwithin_rd
+        icon: "fab fa-instagram"
+
+copyright: Πνευματικά δικαιώματα

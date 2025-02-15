@@ -10,7 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
-gem "minimal-mistakes-jekyll"
+gem "jekyll-agency"
 gem "webrick"
 
 # https://github.com/mmistakes/minimal-mistakes

@@ -1,16 +1,4 @@
-<!--{% for lang in site.languages %}
-    {% assign lang_name = site.data[lang].l10n.lang_name %}
-    {% if lang == site.active_lang %}
-{{ lang_name }}
-    {% else %}
-      {% if lang == site.default_lang %}
-                <a href=" {{ page.url }}">{{ lang_name }}</a>
-      {% else %}
-                <a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
-      {% endif %}
-    {% endif %}
-{% endfor %}  -->
 {% for tongue in site.languages %}
 {% assign lang_name = site.data[tongue].l10n.lang_name %}
-<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ site.data[tongue].l10n.name  }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} ><img height=20 style="padding:0px 5px" src="{{ site.data[tongue].l10n.flag_image  }}"></a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
 {% endfor %}
