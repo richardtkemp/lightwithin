@@ -17,7 +17,8 @@ description:
 
 
 port                     : 2368
-url                      : "https://lightwithin.richardkemp.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url                      : "https://thelightwithin.github.io"
+domain			 : "thelightwithin.github.io"
 
 # Site Author
 author:

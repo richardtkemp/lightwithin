@@ -1,4 +1,3 @@
-_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
@@ -6,3 +5,4 @@ nohup.out
 /autotranslate
 /greek
 /theme
+Gemfile.lock
