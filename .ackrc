@@ -2,6 +2,7 @@
 --follow
 --ignore-file=match:/[._].*[.]swp$/
 --ignore-dir=_site
+--ignore-dir=theme
 --ignore-dir=.git
 --ignore-dir=.jekyll-cache
 --ignore-dir=nohup.out
