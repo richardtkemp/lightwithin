@@ -17,8 +17,9 @@ description:
 
 
 port                     : 2368
-url                      : "https://thelightwithin.github.io"
-domain			 : "thelightwithin.github.io"
+url                      : "https://richardtkemp.github.io"
+baseurl                  : "/lightwithin"
+domain			 : "richardtkemp.github.io"
 
 # Site Author
 author:
@@ -26,7 +27,7 @@ author:
   avatar           : "/assets/images/headshot.jpg"
   bio              : "I am an **amazing** person."
   #location         : "The Sun"
-  email            : eleni.vantana2@gmail.com
+  email            : eleni.vantana2+lightwithin@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
