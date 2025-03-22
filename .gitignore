@@ -6,3 +6,5 @@ nohup.out
 /greek
 /theme
 Gemfile.lock
+*.swo
+*.swp
